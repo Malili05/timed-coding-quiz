@@ -85,6 +85,8 @@
   }
   
   .questions {
+    font-size: 3.5em;
+    text-align:center;
     line-height: 360px;
   }
   

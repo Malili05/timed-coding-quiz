@@ -41,13 +41,6 @@ showQuestions()
 choicesCont.addEventListener("click", questionClick)
 
 
-
-///var quizQuest1 = "Commonly used data types DO NOT include:"
-//var quizQuest2 = "The condition in an if/else statement in enclosed with _______."
-//var quizQuest3 = "Arrays in JavaScript can be used to store: "
-// var quizQuest4 = "A very useful tool for debugging script and printing content to the debugger is ________."
-// var quizQuest5 = "String values must be enclosed within _______ when beign assigned to variables."
-
 var questionsArray = [
     {
     questionText: "2 + 2 =", 

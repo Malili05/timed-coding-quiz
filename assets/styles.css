@@ -30,7 +30,7 @@
     border-radius: 8px;
     color: #13293d;
     cursor: pointer;
-    font-size: 2em;
+    font-size: 25px;
     letter-spacing: 0.21px;
     line-height: 16px;
     max-width: 255px;
@@ -87,7 +87,6 @@
   .questions {
     font-size: 3.5em;
     text-align:center;
-    line-height: 360px;
   }
   
   .large-font {
@@ -138,5 +137,3 @@
     .timer {
       height: 200px;
     }
-   
-  
